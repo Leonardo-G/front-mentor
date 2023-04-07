@@ -9,105 +9,94 @@ Este repositorio sirve como un índice centralizado de los desafíos web de [Fro
 ### React / Next
 
 <br>
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 45%;">
-        <img 
-           src="files/rock-paper.png" 
-           style="width: 100%; height: 100%; object-fit: cover;"
-        />
-        <a 
-            style="cursor: pointer;"
-            target="_blank"
-            rel="noreferrer"
-            href="https://rock-paper-scissors-frontmentor.vercel.app/"
-        >Rock - Paper - Scissors</a>
-    </div>
-    <div style="width: 45%;">
-        <img 
-           src="files/multi-form.png" 
-           style="width: 100%; height: 100%; object-fit: cover;"
-        />
-        <a 
-            style="cursor: pointer;"
-            target="_blank"
-            rel="noreferrer"
-            href="https://multi-step-form-frontmentor.vercel.app/"
-        >Multi Form</a>
-    </div>
+<div align="center">
+    <table style="width: 800px;" border="none">
+        <tbody>
+            <tr height="400">
+                <td width="50%">
+                    <img 
+                        src="files/rock-paper.png"
+                    />
+                    <a 
+                        style="cursor: pointer;"
+                        target="_blank"
+                        rel="noreferrer"
+                        href="https://rock-paper-scissors-frontmentor.vercel.app/"
+                    >Rock - Paper - Scissors</a>
+                </td>
+                <td width="50%">
+                    <img 
+                        src="files/multi-form.png" 
+                    />
+                    <a 
+                        style="cursor: pointer;"
+                        target="_blank"
+                        rel="noreferrer"
+                        href="https://multi-step-form-frontmentor.vercel.app/"
+                    >Multi Form</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img 
+                        src="files/comments.png" 
+                    />
+                    <a 
+                        style="cursor: pointer;"
+                        target="_blank"
+                        rel="noreferrer"
+                        href="https://front-mentor-comments-44826kw8x-leonardo-g.vercel.app/"
+                    >Comments</a>
+                </td>
+                <td>
+                    <img 
+                        src="files/countries.png" 
+                    />
+                    <a 
+                        style="cursor: pointer;"
+                        target="_blank"
+                        rel="noreferrer"
+                        href="https://front-end-contries.vercel.app/"
+                    >Countries</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img 
+                        src="files/introsection.png" 
+                    />
+                    <a 
+                        style="cursor: pointer;"
+                        target="_blank"
+                        rel="noreferrer"
+                        href="https://intresection-frontmentor.vercel.app/"
+                    >Comments</a>
+                </td>
+                <td>
+                    <img 
+                        src="files/ecommerce.png" 
+                    />
+                    <a 
+                        style="cursor: pointer;"
+                        target="_blank"
+                        rel="noreferrer"
+                        href="https://ecommerce-mentor-30tz3y3x3-leonardo-g.vercel.app/"
+                    >Countries</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img 
+                        src="files/fylo.png" 
+                    />
+                    <a 
+                        style="cursor: pointer;"
+                        target="_blank"
+                        rel="noreferrer"
+                        href="https://front-mentor-fylo-cdhdo5hf2-leonardo-g.vercel.app/"
+                    >Comments</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
-<br>
-<br>
-<br>
-<br>
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 40%;">
-        <img 
-           src="files/comments.png" 
-           style="width: 100%; height: 100%; max-height: 350px; object-fit: contain;"
-        />
-        <a 
-            style="cursor: pointer;"
-            target="_blank"
-            rel="noreferrer"
-            href="https://front-mentor-comments-44826kw8x-leonardo-g.vercel.app/"
-        >Comments</a>
-    </div>
-    <div style="width: 40%;">
-        <img 
-           src="files/countries.png" 
-           style="width: 100%; height: 100%; max-height: 350px; object-fit: contain;"
-        />
-        <a 
-            style="cursor: pointer;"
-            target="_blank"
-            rel="noreferrer"
-            href="https://front-end-contries.vercel.app/"
-        >Countries</a>
-    </div>
-</div>
-<br>
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 40%;">
-        <img 
-           src="files/introsection.png" 
-           style="width: 100%; height: 100%; object-fit: contain;"
-        />
-        <a 
-            style="cursor: pointer;"
-            target="_blank"
-            rel="noreferrer"
-            href="https://intresection-frontmentor.vercel.app/"
-        >IntroSection Page</a>
-    </div>
-    <div style="width: 40%;">
-        <img 
-           src="files/ecommerce.png" 
-           style="width: 100%; height: 100%; object-fit: contain;"
-        />
-        <a 
-            style="cursor: pointer;"
-            target="_blank"
-            rel="noreferrer"
-            href="https://ecommerce-mentor-30tz3y3x3-leonardo-g.vercel.app/"
-        >Ecommerce</a>
-    </div>
-</div>
-<br>
-<br>
-<br>
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 40%;">
-        <img 
-           src="files/fylo.png" 
-           style="width: 100%; height: 100%; max-height: 350px; object-fit: contain;"
-        />
-        <a 
-            style="cursor: pointer;"
-            target="_blank"
-            rel="noreferrer"
-            href="https://front-mentor-fylo-cdhdo5hf2-leonardo-g.vercel.app/"
-        >Fylo Page</a>
-    </div>
-</div>
-
-
